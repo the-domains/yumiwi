@@ -1,4 +1,3 @@
-layout_spectrum: 0.8169855049345642
 typography_spectrum: 0.14847391471266747
 color:
   brandStrength: 0.10312076611444354
@@ -11,4 +10,6 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.8169855049345642
 name: 'Yumiwi '
+title: Yumiwi
