@@ -1,0 +1,14 @@
+layout_spectrum: 0.8169855049345642
+typography_spectrum: 0.14847391471266747
+color:
+  brandStrength: 0.10312076611444354
+  lightness: 0.274566016625613
+  saturation: 0.18996556079946458
+  rhythmicContrast: 0.9942045956850052
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: 'Yumiwi '
